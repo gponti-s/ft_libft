@@ -1,2 +1,3 @@
 # ft_libft
-Re-code a set of the libc functions, as defined in their man.
+This project recodes a set of libc functions, as defined in its man.
+Some important extra functions have also been included.
